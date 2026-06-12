@@ -1,9 +1,13 @@
-# LONGRISE Static Mockup Build
+# LONGRISE Original UI Static Preview
 
-This folder contains the serverless static mockup build prepared for the AIPF repository.
+This build was generated from `longrise-main0612.zip`.
 
-- Root page: `index.html`
-- Wallet direct preview: `wallet-preview.html`
-- Static assets: `assets/`
+Scope:
+- Original visible UI and screen structure are preserved.
+- Backend API calls are replaced with static preview responses.
+- The build is suitable for GitHub Pages or other static hosting.
 
-The build is intended for GitHub Pages or another static hosting preview.
+Files:
+- `index.html`: main preview entry
+- `wallet-preview.html`: same static app entry, kept for direct preview URL compatibility
+- `assets/`: generated JavaScript and CSS assets
